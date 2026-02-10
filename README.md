@@ -18,15 +18,21 @@
 <br> 
 
 -**Frameworks**:
+<br>
   [![My Skills](https://skillicons.dev/icons?i=express,laravel,nextjs,react,sass,tailwind)](https://skillicons.dev)
+<br>
 
 
 
 - **Tools**:
+<br>
   [![My Skills](https://skillicons.dev/icons?i=github,debian,figma,git,jest,md,mongodb,mysql,nodejs,postman,sublime,ubuntu,vscode)](https://skillicons.dev)
+<br>
 
 - **Extras**:
+<br>
   [![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+<br>
 
 
 <!--
