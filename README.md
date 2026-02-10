@@ -12,25 +12,25 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 - **Languages**:
-  <br>
+  <br><br>
   [![MySkills](https://skillicons.dev/icons?i=js,html,css,java,php,py,ts)](https://skillicons.dev)
 
 <br> 
 
 -**Frameworks**:
-<br>
+<br><br>
   [![My Skills](https://skillicons.dev/icons?i=express,laravel,nextjs,react,sass,tailwind)](https://skillicons.dev)
 <br>
 
 
 
 - **Tools**:
-<br>
+<br><br>
   [![My Skills](https://skillicons.dev/icons?i=github,debian,figma,git,jest,md,mongodb,mysql,nodejs,postman,sublime,ubuntu,vscode)](https://skillicons.dev)
 <br>
 
 - **Extras**:
-<br>
+<br><br>
   [![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
 <br>
 
