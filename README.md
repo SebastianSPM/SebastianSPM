@@ -16,9 +16,9 @@
 [![MySkills](https://skillicons.dev/icons?i=js,html,css,java,php,py,ts)](https://skillicons.dev)
 <br> 
 
--**Frameworks**:
+- **Frameworks**:
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=express,laravel,nextjs,react,sass,tailwind)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=express,laravel,nextjs,react,sass,tailwind)](https://skillicons.dev)
 <br>
 
 - **Tools**:
