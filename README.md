@@ -13,31 +13,20 @@
 
 - **Languages**:
   <br>
-   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  [![css](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![MySkills](https://skillicons.dev/icons?i=js,html,css,java,php,py,ts)](https://skillicons.dev)
 
 <br> 
+
+-**Frameworks**:
+  [![My Skills](https://skillicons.dev/icons?i=express,laravel,nextjs,react,sass,tailwind)](https://skillicons.dev)
 
 
 
 - **Tools**:
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,debian,figma,git,jest,md,mongodb,mysql,nodejs,postman,sublime,ubuntu,vscode)](https://skillicons.dev)
 
 - **Extras**:
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
 
 
 <!--
